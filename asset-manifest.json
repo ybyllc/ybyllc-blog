@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ybyllc-blog/static/css/main.e6c13ad2.css",
+    "main.js": "/ybyllc-blog/static/js/main.ab512401.js",
+    "static/js/453.dc86fa4a.chunk.js": "/ybyllc-blog/static/js/453.dc86fa4a.chunk.js",
+    "index.html": "/ybyllc-blog/index.html",
+    "main.e6c13ad2.css.map": "/ybyllc-blog/static/css/main.e6c13ad2.css.map",
+    "main.ab512401.js.map": "/ybyllc-blog/static/js/main.ab512401.js.map",
+    "453.dc86fa4a.chunk.js.map": "/ybyllc-blog/static/js/453.dc86fa4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ab512401.js"
+  ]
+}
